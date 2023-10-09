@@ -1,0 +1,3 @@
+[submodule "repo/plugin.video.nhl66"]
+	path = repo/plugin.video.nhl66
+	url = https://github.com/tekbec/plugin.video.nhl66.git
