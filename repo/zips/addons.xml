@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.nhl66" name="NHL66" version="1.0.0" provider-name="tekbec">
+<addons><addon id="plugin.video.nhl66" name="NHL66" version="1.0.1" provider-name="tekbec">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.codequick" version="1.0.3" />
@@ -12,7 +12,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary>NHL Streams</summary>
-    <description>Watch Free NHL Streams. This service delivers offers live streams and replays.</description>
+    <description>Watch Free NHL Streams. This service offers live streams and replays.</description>
     <assets>
         <icon>resources/media/icon.png</icon>
         <fanart>resources/media/fanart.jpg</fanart>
